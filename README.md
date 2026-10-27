@@ -1,0 +1,2 @@
+# notes
+learning by building
